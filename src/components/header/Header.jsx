@@ -86,7 +86,7 @@ export const Header = ({ type }) => {
             </h1>
             <p className="headerDesc">
               Get rewarded for your travels inlock instant savings of 10% or
-              more with free Lamabooking account
+              more with free booking account
             </p>
             <button className="headerBtn">Sign in / Register</button>
 
